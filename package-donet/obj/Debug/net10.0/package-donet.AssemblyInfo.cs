@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("package-donet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efaaf9a9009066ca3b1070ccf62e67c969d8616a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f3651f8a2df5a18b5f310acfe1f00f42028dcd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("package-donet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("package-donet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
